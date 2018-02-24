@@ -1,3 +1,3 @@
 # Melhores Atletas
-<Ayrton Senna>
+Ayrton Senna
 ....
