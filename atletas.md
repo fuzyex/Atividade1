@@ -1,3 +1,3 @@
 # Melhores Atletas
-<Cafu>
+Cafu
 ....
