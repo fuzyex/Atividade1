@@ -1,3 +1,3 @@
 # Melhores Atletas
-<Ronaldinho gaucho>
+Ronaldinho gaucho
 ....
